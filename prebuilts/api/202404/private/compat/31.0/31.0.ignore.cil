@@ -13,6 +13,7 @@
     device_config_nnapi_native_prop
     dice_maintenance_service
     dice_node_service
+    hal_invcase_hwservice
     diced
     diced_exec
     extra_free_kbytes

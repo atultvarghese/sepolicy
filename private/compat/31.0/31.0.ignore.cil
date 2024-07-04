@@ -11,6 +11,7 @@
     camera2_extensions_prop
     communal_service
     device_config_nnapi_native_prop
+    hal_invcase_hwservice
     dice_maintenance_service
     dice_node_service
     diced
